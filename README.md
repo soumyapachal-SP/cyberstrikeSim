@@ -91,14 +91,6 @@ A **merged hybrid dataset** created from:
 
 ---
 
-## 📊 Key Findings
-- **XGBoost** achieves the best accuracy–latency balance
-- **Ensemble model** provides the highest ROC‑AUC
-- **Random Forest** offers lowest latency with moderate accuracy
-- Offline metrics alone are insufficient for deployment decisions
-
----
-
 ## 🛠️ Tools & Technologies
 - Python (Scikit‑learn, XGBoost, LightGBM)
 - MATLAB (Cloudlet simulation)
